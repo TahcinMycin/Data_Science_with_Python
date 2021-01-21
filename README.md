@@ -12,17 +12,18 @@ If you don't have python installed, then install it from this link
 https://www.python.org/downloads/
 
 We also have to install some packages. So run these commands in your cmd or power shell
-
+```bash
 $ pip install numpy pandas matplotlib seaborn
+```
 
 We will also install Jupyter Notebook for IPython interface
-
+```bash
 $ pip install notebook
-
+```
 After installation run your Jupyter notebook
-
+```bash
 $ jupyter notebook
-
+```
 It will run in your default browser. If you want, you can visit the machine learning repository of my github. Link's bellow:
 
 https://github.com/TahcinMycin/Machine-Learning_SciKit_learn
